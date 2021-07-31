@@ -1,0 +1,86 @@
+.imgbody {
+    background-size: 50% 50% !important;
+    background-image: url(https://besthqwallpapers.com/Uploads/14-11-2019/111283/thumb-twitter-green-logo-4k-green-brickwall-twitter-logo-brands.jpg) !important;
+}
+
+.imgtheme {
+    background-size: 100% 50% !important;
+    background-image: url(https://besthqwallpapers.com/Uploads/14-11-2019/111283/thumb-twitter-green-logo-4k-green-brickwall-twitter-logo-brands.jpg) !important;
+}
+
+.imgedit {
+    background-size: 100% 100% !important;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hKJQr2CGJKEh1dFKumxLOBHJ2L1bWWRdJw&usqp=CAU) !important;
+}
+.imgprofil {
+
+    background-size: 100% 300% !important;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/524caf98e4b0b5e2e07fd6cc/1552929788071-OAGTGHCSRA9HXSE9C6D5/ke17ZwdGBToddI8pDm48kE-IHWKoHJTy3-aIlN4KpbhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAIvDPg4f0VR7C0aVX6QzQiPZWkaPUSBjCH1YbuLZjhNZHCgK2j_nqnHEPt1ekTfY/company-profile.jpg?format=750w) !important;
+}
+.bg-grid {
+    background-image: url("../../Assets/img/home/bg.png");
+}
+
+.text-size {
+    font-size: 19px;
+}
+
+.vh-95 {
+    height: 95vh!important;
+}
+
+.vh-5 {
+    height: 5vh!important;
+}
+
+.shadow-text {
+    text-shadow: 0px 1px 7px rgba(0, 0, 0, 0.4);
+}
+
+.svg-color {
+    color: #007bff !important;
+}
+
+.square {
+    height: 20px;
+    width: 20px;
+}
+
+.nav-item:hover {
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 50rem!important;
+    background-color: rgba(0, 0, 0, 0.41);
+}
+
+textarea {
+    resize: none !important;
+}
+
+.margintheme {
+    margin-top: 30px !important;
+}
+
+.editmarg {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.marginedit {
+    margin-top: -10px;
+}
+.marginedit2 {
+    margin-top: -16px;
+}
+.colorpourquitter {
+    color: #a0f;
+    padding-bottom: 10px;
+}
+
+.datenaissanceedit {
+    width: 210px;
+}
+.profilmargin {
+    padding-bottom: 150px;
+}
+input{
+    cursor: pointer;
+}
